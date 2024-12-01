@@ -1,0 +1,46 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin require-restart="true">
+    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+    <id>com.genesiscorp.auto-save-on-typing</id>
+
+    <!-- Public plugin name should be written in Title Case.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
+    <name>AutoSave on Typing</name>
+
+    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+    <vendor email="tanriverdisuha@gmail.com" url="https://github.com/suhatanriverdi/">Süha Tanrıverdi</vendor>
+
+    <change-notes>Unreleased changes</change-notes>
+
+    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+    <description><![CDATA[
+Automatically saves your files as you type.<br><br>
+No more manual “Ctrl+S / Command+S” presses.<br><br>
+Save your <b>time</b> and <b>focus</b>.<br><br>
+<ul>
+  <li>Supports every file in your project folder.</li>
+  <li>Customizable save delay settings (0-10 seconds).</li>
+  <li>Instant, real-time file saves—no interruptions.</li>
+  <li>Ideal for front-end, full-stack, and mobile developers for instant UI updates in browsers, apps, emulators, and simulators.</li>
+</ul>
+]]></description>
+
+    <!-- Product and plugin compatibility requirements.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <!-- Extension points defined by the plugin.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html -->
+    <extensions defaultExtensionNs="com.intellij">
+        <editorFactoryListener
+                implementation="com.genesiscorp.autosaveontyping.AutoSaveOnTypingListener"/>
+        <notificationGroup id="Auto Save Notifications"
+                           displayType="BALLOON"
+                           isLogByDefault="true"/>
+        <applicationConfigurable displayName="AutoSave on Typing Settings"
+                                 instance="com.genesiscorp.autosaveontyping.AutoSaveConfig"/>
+    </extensions>
+
+</idea-plugin>
