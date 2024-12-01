@@ -7,9 +7,9 @@ Automatically save your files as you type—ideal for developers seeking an inst
 <!-- Plugin description end -->
 
 ## 🎯 Plugin Live Demo
-The following recording shows how the plugin works while running on a simple React Vite application with the development server:<be>
+The following recording shows how the plugin works while running on a simple React Vite application with the development server:<br>
 
-![autosavegif](https://github.com/user-attachments/assets/c7fc5928-0697-4863-9d0a-c915fa5ccda8)
+![autosavegif](https://github.com/user-attachments/assets/fc4da808-c729-4596-bfc8-38f88c86626f)
 
 ---
 
