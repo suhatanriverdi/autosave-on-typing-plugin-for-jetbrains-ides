@@ -24,7 +24,8 @@ Save your <b>time</b> and <b>focus</b>.<br><br>
   <li>Customizable save delay settings (0-10 seconds).</li>
   <li>Instant, real-time file saves—no interruptions.</li>
   <li>Ideal for front-end, full-stack, and mobile developers for instant UI updates in browsers, apps, emulators, and simulators.</li>
-</ul>
+</ul><br><br>
+To adjust the save delay, select Settings | AutoSave on Typing.
 ]]></description>
 
     <!-- Product and plugin compatibility requirements.
