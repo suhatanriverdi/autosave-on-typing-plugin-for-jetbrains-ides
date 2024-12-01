@@ -2,7 +2,6 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-Apache%202.0-orange) ![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/d/12345)
 
-<!-- Plugin description -->
 Automatically save your files as you type—ideal for developers seeking an instant saving experience like VSCode’s Auto Save feature on any IntelliJ-based IDE.
 
 ## 🎯 Plugin Live Demo
@@ -61,4 +60,7 @@ For questions or suggestions, email: `tanriverdisuha@gmail.com`
 ---
 
 **Save time. Stay focused. Let AutoSave On Typing do the rest.**
-<!-- Plugin description end -->
+
+<a href="https://www.buymeacoffee.com/suhatanriverdi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+_Your support means a lot to me to continue the development of open-source projects like this._
