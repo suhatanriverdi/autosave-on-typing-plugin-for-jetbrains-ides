@@ -5,10 +5,10 @@
 ## [Unreleased] - 2024-12-01
 
 ### Added
-- Introduced customizable save delay for front-end and full-stack developers.
+- Coroutines Optimization
 
-### Fixed
-- Resolved issue with file saving when switching between multiple editors.
+### Changed
+- Delay Adjustment
 
 ## [1.0.0] - 2024-11-01
 
@@ -24,4 +24,4 @@
 ### Removed
 - Removed sync approach
 
-[1.0.0]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v0.10.1...v1.0.0
+[1.0.0]: https://github.com/suhatanriverdi/autosave-on-typing-plugin-for-jetbrains-ides

@@ -4,7 +4,6 @@
 
 <!-- Plugin description -->
 Automatically save your files as you type—ideal for developers seeking an instant saving experience like VSCode’s Auto Save feature on any IntelliJ-based IDE.
-<!-- Plugin description end -->
 
 ## 🎯 Plugin Live Demo
 The following recording shows how the plugin works while running on a simple React Vite application with the development server:<be>
@@ -62,3 +61,4 @@ For questions or suggestions, email: `tanriverdisuha@gmail.com`
 ---
 
 **Save time. Stay focused. Let AutoSave On Typing do the rest.**
+<!-- Plugin description end -->

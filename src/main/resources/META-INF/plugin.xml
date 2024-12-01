@@ -10,7 +10,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="tanriverdisuha@gmail.com" url="https://github.com/suhatanriverdi/">Süha Tanrıverdi</vendor>
 
-    <change-notes>Unreleased changes</change-notes>
+<!--    <change-notes>Unreleased changes</change-notes>-->
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
@@ -30,6 +30,8 @@ Save your <b>time</b> and <b>focus</b>.<br><br>
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
+
+    <idea-version since-build="233" until-build="243.*"/>
 
     <!-- Extension points defined by the plugin.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html -->
