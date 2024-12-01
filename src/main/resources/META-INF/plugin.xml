@@ -16,16 +16,16 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-Automatically saves your files as you type.<br><br>
-No more manual “Ctrl+S / Command+S” presses.<br><br>
-Save your <b>time</b> and <b>focus</b>.<br><br>
+<font size="5">Automatically saves your files as you type.</font><br><br>
+No more manual “Ctrl+S / Command+S” presses.<br>
 <ul>
   <li>Supports every file in your project folder.</li>
   <li>Customizable save delay settings (0-10 seconds).</li>
   <li>Instant, real-time file saves—no interruptions.</li>
   <li>Ideal for front-end, full-stack, and mobile developers for instant UI updates in browsers, apps, emulators, and simulators.</li>
-</ul><br><br>
-To adjust the save delay, select Settings | AutoSave on Typing.
+</ul>
+To adjust the save delay, select Settings | AutoSave on Typing.<br><br>
+Save your <b>time</b> and <b>focus</b>.<br><br>
 ]]></description>
 
     <!-- Product and plugin compatibility requirements.
