@@ -2,9 +2,17 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-Apache%202.0-orange) ![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/d/12345)
 
-Automatically save your files as you type—ideal for developers seeking an instant saving experience like VSCode’s Auto Save feature on any IntelliJ-based IDE.
+Automatically save your files as you type—ideal for developers seeking an instant saving experience like VSCode’s Auto Save feature on any IntelliJ-based IDE.<br>
 
-## 🎯 Plugin Live Demo
+---
+
+## Get from JetBrains Marketplace 👇🏼
+
+<a href="https://plugins.jetbrains.com/plugin/25981-autosave-on-typing" target="_blank"><img style="width: 300px;border: 1px solid black;" src="https://github.com/suhatanriverdi/shtanriverdi/blob/main/css/marketplacelink-Photoroom.png" alt="AutoSave on Typing"></a>
+
+---
+
+## 🎬 Plugin Live Demo
 The following recording shows how the plugin works while running on a simple React Vite application with the development server:<br>
 
 ![autosavegif](https://github.com/user-attachments/assets/fc4da808-c729-4596-bfc8-38f88c86626f)
