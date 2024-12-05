@@ -1,8 +1,18 @@
-# AutoSave Plugin for JetBrains IDEs
+# AutoSave Plugin for all JetBrains IDEs ⚡️ Instant AutoSave 
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0-blue) ![License](https://img.shields.io/badge/license-Apache%202.0-orange)
 
-Automatically save your files as you type—ideal for developers seeking an instant saving experience like VSCode’s Auto Save feature on any IntelliJ-based IDE.<br>
+Automatically save your files as you type—ideal for developers seeking an instant saving experience like VSCode’s Auto Save feature on any IntelliJ-based IDE.<be>
+
+Enable the ⚡️ **instant** ⚡️ auto-save with **zero delay**, a feature not even possible with the current built-in settings (See below):
+
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/55482486-f3f0-47df-aee7-84385b15c943">
+
+---
+
+With this plugin, you can now achieve true zero-delay auto-saving. You can still adjust the delay as you wish:
+
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/2d61b270-505c-497f-9659-a3a8be699bfc">
 
 ---
 
@@ -32,7 +42,7 @@ _Note: Estimates vary based on individual workflows._
 ## 💡 Features
 
 - **Automatic File Saving:** Saves files instantly while typing.  
-- **Customizable Delay:** Set save intervals between 0-10 seconds. 
+- **Customizable Delay:** Set save intervals between 0-10 seconds. (default / initial delay is zero)
 - **Wide File Support:** Supports a variety of technologies, including everything in your project folder :)
 - **Real-Time Updates:** Ideal for frontend, full-stack, and mobile developers who need to see changes instantly reflected in their browsers, applications, or simulators.
 
