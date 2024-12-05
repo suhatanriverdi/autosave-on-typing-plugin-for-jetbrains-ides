@@ -2,7 +2,7 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0-blue) ![License](https://img.shields.io/badge/license-Apache%202.0-orange)
 
-Automatically save your files as you type—ideal for developers seeking an instant saving experience like VSCode’s Auto Save feature on any IntelliJ-based IDE.<be>
+Automatically save your files as you type—ideal for developers seeking an instant saving experience on any IntelliJ-based IDE.<be>
 
 Enable the ⚡️ **instant** ⚡️ auto-save with **zero delay**, a feature not even possible with the current built-in settings (See below):
 
