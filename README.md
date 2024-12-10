@@ -4,6 +4,14 @@
 
 Automatically save your files as you type—ideal for developers seeking an instant saving experience on any IntelliJ-based IDE.<be>
 
+---
+
+## Get from JetBrains Marketplace 👇🏼
+
+<a href="https://plugins.jetbrains.com/plugin/25981-autosave-on-typing" target="_blank"><img style="width: 300px;border: 1px solid black;" src="https://github.com/suhatanriverdi/shtanriverdi/blob/main/css/marketplacelink-Photoroom.png" alt="AutoSave on Typing"></a>
+
+---
+
 Enable the ⚡️ **instant** ⚡️ auto-save with **zero delay**, a feature not even possible with the current built-in settings (See below):
 
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/55482486-f3f0-47df-aee7-84385b15c943">
@@ -13,12 +21,6 @@ Enable the ⚡️ **instant** ⚡️ auto-save with **zero delay**, a feature no
 With this plugin, you can now achieve true zero-delay auto-saving. You can still adjust the delay as you wish:
 
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/2d61b270-505c-497f-9659-a3a8be699bfc">
-
----
-
-## Get from JetBrains Marketplace 👇🏼
-
-<a href="https://plugins.jetbrains.com/plugin/25981-autosave-on-typing" target="_blank"><img style="width: 300px;border: 1px solid black;" src="https://github.com/suhatanriverdi/shtanriverdi/blob/main/css/marketplacelink-Photoroom.png" alt="AutoSave on Typing"></a>
 
 ---
 
