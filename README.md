@@ -1,4 +1,4 @@
-# AutoSave Plugin for all JetBrains IDEs ⚡️ Instant AutoSave 
+# ⚡️ Instant AutoSave Plugin for all JetBrains IDEs
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Version](https://img.shields.io/badge/version-1.0-blue) ![License](https://img.shields.io/badge/license-Apache%202.0-orange)
 
