@@ -75,7 +75,7 @@ Compatible with major JetBrains IDEs, including IntelliJ IDEA, IntelliJ IDEA CE 
 
 ## 📧 Contact
 
-For questions or suggestions, email: `tanriverdisuha@gmail.com`
+For questions or suggestions, email: `suhatanriverdi.dev@gmail.com`
 
 ---
 
